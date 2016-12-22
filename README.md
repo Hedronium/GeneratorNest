@@ -58,3 +58,6 @@ a aa aaa aab aac ab aba abb abc ac aca acb acc b ba baa bab bac bb bba bbb bbc b
 ```
 
 TADDA!
+
+## LICENSE
+MIT.
